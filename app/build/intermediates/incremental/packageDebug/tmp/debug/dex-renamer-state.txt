@@ -1,0 +1,4 @@
+#Mon Jun 01 15:57:23 EDT 2020
+base.0=C\:\\Users\\jruss\\OneDrive\\murach android\\murach_android_programming_2e_ig\\android\\book_apps\\ch15_TaskList\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
